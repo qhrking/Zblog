@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wltea.ik-analyzer:IKAnalyzer:2012_hf">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wltea/ik-analyzer/IKAnalyzer/2012_hf/IKAnalyzer-2012_hf.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wltea/ik-analyzer/IKAnalyzer/2012_hf/IKAnalyzer-2012_hf-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wltea/ik-analyzer/IKAnalyzer/2012_hf/IKAnalyzer-2012_hf-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
